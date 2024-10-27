@@ -19,6 +19,3 @@ Visit the live website: [DAB Store](https://dab-store.vercel.app/)
 - HTML/CSS/JavaScript
 
 Feel free to explore the repository.
-
-
-Feel free to explore the repository.
