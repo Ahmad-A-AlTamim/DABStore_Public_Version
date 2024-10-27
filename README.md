@@ -3,7 +3,7 @@
 This is the public repository for DAB Store, an e-commerce website developed by Ahmad Tamim and Omar Haji . The website provides a complete online shopping experience, including product browsing, user accounts, and an admin panel for managing products, orders, and more.
 
 Website
-Visit the live website: DAB Store
+Visit the live website: [DAB Store](https://dab-store.vercel.app/)
 
 Features
 Product management (add, edit, delete products)
